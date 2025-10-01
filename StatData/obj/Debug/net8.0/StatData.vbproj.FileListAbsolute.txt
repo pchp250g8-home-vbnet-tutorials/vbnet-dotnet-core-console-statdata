@@ -1,0 +1,14 @@
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\StatData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\StatData.AssemblyInfoInputs.cache
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\StatData.AssemblyInfo.vb
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\StatData.vbproj.CoreCompileInputs.cache
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\bin\Debug\net8.0\StatData.exe
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\bin\Debug\net8.0\StatData.deps.json
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\bin\Debug\net8.0\StatData.runtimeconfig.json
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\bin\Debug\net8.0\StatData.dll
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\bin\Debug\net8.0\StatData.pdb
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\StatData.dll
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\refint\StatData.dll
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\StatData.pdb
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\StatData.genruntimeconfig.cache
+D:\Projects\Programming\VisualBasic\DotNetCore\StatData\StatData\obj\Debug\net8.0\ref\StatData.dll
